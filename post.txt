@@ -1,0 +1,8 @@
+Array
+(
+    [category_name] => 111111
+    [parent_category] => 
+    [position] => start
+    [category_active] => on
+    [form] => 1
+)

@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule . 404.php [L]
