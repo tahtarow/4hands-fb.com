@@ -26,6 +26,8 @@ function dump($var, $color = '', $i = -1, $key = '')
 
         echo str_repeat('▌', $i) . $key . '=>' . $var . '<br>' . "\n\r";
     } else {
+        echo str_repeat('▌', $i) . "\n\r";
+        echo '<br>' . "\n";
         if (empty($key)) $key = '(arr)';
         if ($key == '0_') $key = '&#48;';
         if (!empty($key)) echo str_repeat('▌', $i) . $key . ':<br>' . "\n\r";
@@ -33,6 +35,7 @@ function dump($var, $color = '', $i = -1, $key = '')
             if (empty($key)) $key = '0_';
             dump($item, $color, $i, $key);
         }
+
     }
     if ($i == 0) {
         echo '<br>' . "\n";
@@ -336,7 +339,7 @@ function console($message)
             if (is_array($value)) {
                 console($value);
             } else {
-                echo "<script>console.log('" . $key . "_" . $value . "');</script>";
+                echo "<script>console.log('" . $key . " : " . $value . "');</script>";
             }
         }
     } else {

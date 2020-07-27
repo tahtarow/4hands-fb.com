@@ -1,0 +1,1448 @@
+<? return [
+  'cache' => 
+  [
+    2611 => 
+    [
+      'f186cac98e7c1f16378cb183efb64dbe' => 
+      [
+        'data' => 
+        [
+          0 => 
+          [
+            'name' => '4hands | Сочи',
+            'currency' => 'RUB',
+            'id' => 'act_438297763389328',
+          ],
+          1 => 
+          [
+            'name' => 'тестовый рекл акк',
+            'currency' => 'USD',
+            'id' => 'act_2315846301799902',
+          ],
+          2 => 
+          [
+            'name' => 'GOLOVA Lipetsk',
+            'currency' => 'RUB',
+            'id' => 'act_2742104272528960',
+          ],
+          3 => 
+          [
+            'name' => 'GOLOVA Novosibirsk',
+            'currency' => 'RUB',
+            'id' => 'act_380185422600371',
+          ],
+          4 => 
+          [
+            'name' => 'GOLOVA St.Petersburg',
+            'currency' => 'RUB',
+            'id' => 'act_363826251229623',
+          ],
+        ],
+        'paging' => 
+        [
+          'cursors' => 
+          [
+            'before' => 'MjM4NDMzNzU0NjQ2OTAzNzcZD',
+            'after' => 'MjM4NDM2Nzg4OTEwNjAyMzgZD',
+          ],
+        ],
+      ],
+      '0988481eef0d80316ff0630d29e0f88e' => 
+      [
+        'data' => 
+        [
+          0 => 
+          [
+            'name' => 'Мастера | Лидген 7%',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '14400',
+            'status' => 'ACTIVE',
+            'id' => '23845564224880482',
+          ],
+          1 => 
+          [
+            'name' => 'Мастера | Лидген 3%',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '14400',
+            'status' => 'ACTIVE',
+            'id' => '23845549943230482',
+          ],
+          2 => 
+          [
+            'name' => 'Генерация лидов | Маник за 790 — C одним креативом',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '24300',
+            'status' => 'ACTIVE',
+            'id' => '23845360750170482',
+          ],
+          3 => 
+          [
+            'name' => 'Мастера | Лидген',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '24300',
+            'status' => 'ACTIVE',
+            'id' => '23845324671530482',
+          ],
+          4 => 
+          [
+            'name' => 'Генерация лидов | Маник за 790 — NEW',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '50000',
+            'status' => 'PAUSED',
+            'id' => '23845296731770482',
+          ],
+          5 => 
+          [
+            'name' => 'Генерация лидов | Маник за 790',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '50000',
+            'status' => 'PAUSED',
+            'id' => '23845273734430482',
+          ],
+          6 => 
+          [
+            'name' => 'Мусульманка reload Новосибирск 350 — NEW',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '20000',
+            'status' => 'PAUSED',
+            'id' => '23845071794250482',
+          ],
+          7 => 
+          [
+            'name' => 'Скидка 50% — Лид-форма',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '50000',
+            'status' => 'PAUSED',
+            'id' => '23845071614060482',
+          ],
+          8 => 
+          [
+            'name' => 'Узнаваемость бренда — NEW',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'BRAND_AWARENESS',
+            'daily_budget' => '15000',
+            'status' => 'ACTIVE',
+            'id' => '23845064705590482',
+          ],
+          9 => 
+          [
+            'name' => 'Скидка 50%',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LINK_CLICKS',
+            'daily_budget' => '30000',
+            'status' => 'PAUSED',
+            'id' => '23845060185410482',
+          ],
+          10 => 
+          [
+            'name' => 'Мусульманка reload Новосибирск 350 — Копия',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '20000',
+            'status' => 'ACTIVE',
+            'id' => '23844923692340482',
+          ],
+          11 => 
+          [
+            'name' => 'Манюкюр ланч',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LINK_CLICKS',
+            'daily_budget' => '30000',
+            'status' => 'PAUSED',
+            'id' => '23844913390440482',
+          ],
+          12 => 
+          [
+            'name' => 'GOLOVA�Сеть Салонов Красоты — Вовлеченность для публикации Страницы',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'POST_ENGAGEMENT',
+            'daily_budget' => '10000',
+            'status' => 'PAUSED',
+            'id' => '23844570296080482',
+          ],
+          13 => 
+          [
+            'name' => 'Узнаваемость бренда',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'BRAND_AWARENESS',
+            'daily_budget' => '30000',
+            'status' => 'PAUSED',
+            'id' => '23844558364860482',
+          ],
+          14 => 
+          [
+            'name' => 'Мусульманка reload Новосибирск',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '30000',
+            'status' => 'PAUSED',
+            'id' => '23844549478730482',
+          ],
+          15 => 
+          [
+            'name' => 'Бизнес Ланч 2',
+            'buying_type' => 'AUCTION',
+            'objective' => 'MESSAGES',
+            'status' => 'PAUSED',
+            'id' => '23844539671870482',
+          ],
+          16 => 
+          [
+            'name' => 'Бизнес Ланч',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'MESSAGES',
+            'daily_budget' => '50000',
+            'status' => 'PAUSED',
+            'id' => '23844517465040482',
+          ],
+          17 => 
+          [
+            'name' => 'Мусульманка Новосибирск',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '100000',
+            'status' => 'PAUSED',
+            'id' => '23844237517690482',
+          ],
+          18 => 
+          [
+            'name' => 'Узнаваемость НСК',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'BRAND_AWARENESS',
+            'daily_budget' => '33000',
+            'status' => 'PAUSED',
+            'id' => '23844156781090482',
+          ],
+          19 => 
+          [
+            'name' => 'Мастера Лидформа',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'status' => 'PAUSED',
+            'id' => '23844066030650482',
+          ],
+          20 => 
+          [
+            'name' => 'Стрижка+брови в подарок',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'status' => 'PAUSED',
+            'id' => '23844064002560482',
+          ],
+          21 => 
+          [
+            'name' => 'Мастера WhatsApp',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LINK_CLICKS',
+            'status' => 'PAUSED',
+            'id' => '23844059202550482',
+          ],
+          22 => 
+          [
+            'name' => 'Вакансия парикмахер',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'status' => 'PAUSED',
+            'id' => '23844058971390482',
+          ],
+          23 => 
+          [
+            'name' => 'Мусульманка',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'status' => 'PAUSED',
+            'id' => '23844047424950482',
+          ],
+          24 => 
+          [
+            'name' => 'Чёрная пятница',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LINK_CLICKS',
+            'daily_budget' => '500000',
+            'status' => 'PAUSED',
+            'id' => '23844039517360482',
+          ],
+        ],
+        'paging' => 
+        [
+          'cursors' => 
+          [
+            'before' => 'QVFIUk05ZA3ZAjT1RNZAGRVbXQxNjhTVGJLNXYyWnlYREhiSkdpenJWVDZANRHZARZADFpSnNVMW0tZA0kzMGdpMHBvNzZA4eUdHTFpNTHRLcXR3VFJPY3hKMlZAiaXZAn',
+            'after' => 'QVFIUm1TakxBaDl5ZAW5QcnZAJenBQMTdDWnNOUjhPNTRfV0ZA1SGE2UnFUVVVuS1hIVVAzd1ZAqS05oREMzZAVNPR0lnSW15RUN2TVczMThxZAmhoYnNIMk1yRmVB',
+          ],
+          'next' => 'https://graph.facebook.com/v7.0/act_380185422600371/campaigns?access_token=EAAJiNLCP1g8BALw16v5LNdiJJevh4f0AqVDd3ZCDZBdBwgz1mLqK3HJcHMbeDN6KkksVlQtyjILKM3J4DCIkh4DDaHbGj9rISoFH2Q2XBRyuCZCRmp3s5AlT9ViEvuKXLB3YRhybslzaD0XqPwyCrDuhGsjIGPjFBMVaLZCNCgZDZD&fields=name%2Cbid_strategy%2Cbuying_type%2Cobjective%2Cdaily_budget%2Clifetime_budget%2Cspend_cap%2Cstatus%2Cpromoted_object&limit=25&after=QVFIUm1TakxBaDl5ZAW5QcnZAJenBQMTdDWnNOUjhPNTRfV0ZA1SGE2UnFUVVVuS1hIVVAzd1ZAqS05oREMzZAVNPR0lnSW15RUN2TVczMThxZAmhoYnNIMk1yRmVB',
+        ],
+      ],
+      '8dac842a6621c98fb417d3d0ca5498e2' => 
+      [
+        'data' => 
+        [
+          0 => 
+          [
+            'spend' => '76.49',
+            'impressions' => '570',
+            'cpm' => '134.192982',
+            'cpc' => '7.649',
+            'reach' => '554',
+            'clicks' => '10',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '2',
+              ],
+              1 => 
+              [
+                'action_type' => 'post_reaction',
+                'value' => '1',
+              ],
+              2 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '108',
+              ],
+              3 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '111',
+              ],
+              4 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '111',
+              ],
+            ],
+            'date_start' => '2020-07-22',
+            'date_stop' => '2020-07-22',
+          ],
+          1 => 
+          [
+            'spend' => '133.2',
+            'impressions' => '978',
+            'cpm' => '136.196319',
+            'cpc' => '7.4',
+            'reach' => '921',
+            'clicks' => '18',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '6',
+              ],
+              1 => 
+              [
+                'action_type' => 'post_reaction',
+                'value' => '1',
+              ],
+              2 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '151',
+              ],
+              3 => 
+              [
+                'action_type' => 'onsite_conversion.lead_grouped',
+                'value' => '1',
+              ],
+              4 => 
+              [
+                'action_type' => 'leadgen_grouped',
+                'value' => '1',
+              ],
+              5 => 
+              [
+                'action_type' => 'lead',
+                'value' => '1',
+              ],
+              6 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '158',
+              ],
+              7 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '158',
+              ],
+            ],
+            'date_start' => '2020-07-23',
+            'date_stop' => '2020-07-23',
+          ],
+          2 => 
+          [
+            'spend' => '137.42',
+            'impressions' => '933',
+            'cpm' => '147.288317',
+            'cpc' => '12.492727',
+            'reach' => '883',
+            'clicks' => '11',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '2',
+              ],
+              1 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '132',
+              ],
+              2 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '134',
+              ],
+              3 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '134',
+              ],
+            ],
+            'date_start' => '2020-07-24',
+            'date_stop' => '2020-07-24',
+          ],
+          3 => 
+          [
+            'spend' => '150.89',
+            'impressions' => '908',
+            'cpm' => '166.178414',
+            'cpc' => '8.382778',
+            'reach' => '874',
+            'clicks' => '18',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'onsite_conversion.post_save',
+                'value' => '1',
+              ],
+              1 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '4',
+              ],
+              2 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '138',
+              ],
+              3 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '143',
+              ],
+              4 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '143',
+              ],
+            ],
+            'date_start' => '2020-07-25',
+            'date_stop' => '2020-07-25',
+          ],
+          4 => 
+          [
+            'spend' => '24.42',
+            'impressions' => '129',
+            'cpm' => '189.302326',
+            'cpc' => '12.21',
+            'reach' => '128',
+            'clicks' => '2',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '26',
+              ],
+              1 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '26',
+              ],
+              2 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '26',
+              ],
+            ],
+            'date_start' => '2020-07-26',
+            'date_stop' => '2020-07-26',
+          ],
+        ],
+        'paging' => 
+        [
+          'cursors' => 
+          [
+            'before' => 'MAZDZD',
+            'after' => 'NAZDZD',
+          ],
+        ],
+      ],
+      '7e8555bcf863737fa3b285d848fd0f13' => 
+      [
+        'data' => 
+        [
+          0 => 
+          [
+            'name' => 'Парикмахеры',
+            'billing_event' => 'IMPRESSIONS',
+            'optimization_goal' => 'LEAD_GENERATION',
+            'promoted_object' => 
+            [
+              'page_id' => '442646342975564',
+            ],
+            'id' => '23845564224870482',
+          ],
+          1 => 
+          [
+            'name' => 'Мастера маникюра',
+            'billing_event' => 'IMPRESSIONS',
+            'optimization_goal' => 'LEAD_GENERATION',
+            'promoted_object' => 
+            [
+              'page_id' => '442646342975564',
+            ],
+            'id' => '23845564224800482',
+          ],
+        ],
+        'paging' => 
+        [
+          'cursors' => 
+          [
+            'before' => 'QVFIUjMySUg1SmRVOElibnlOT1VLd0pfWnJEeWYwejVCTnRueno1Rk8xdDhlMk9LdUhUQ1g2cjZAqZAUdQendlN3JINlcyUzZATbWhfaFNCSHhDNTdERDFscndB',
+            'after' => 'QVFIUnpkd1c3S09MWlJINUJDVm1zNGFERHVuQVJnMTlPeW5CRDR6S0ZA3YzRWc1g0Q0djOUxnbFFGM21IYU1PR2pXQnF0aEs3VUdBdElydmYwY2dpVkUtYjlB',
+          ],
+        ],
+      ],
+      'c0125eae75d0c3bae77ea4067800a01b' => 
+      [
+        'data' => 
+        [
+        ],
+      ],
+      'fa156b0ae9ad4df8593b78d8d8b39224' => 
+      [
+        'data' => 
+        [
+          0 => 
+          [
+            'name' => 'Трафик_конкурс_02.06.2020',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LINK_CLICKS',
+            'daily_budget' => '20000',
+            'status' => 'ACTIVE',
+            'id' => '23844791762730272',
+          ],
+          1 => 
+          [
+            'name' => 'Конкурс_вовлечённость_02.06.2020',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'POST_ENGAGEMENT',
+            'lifetime_budget' => '140000',
+            'status' => 'ACTIVE',
+            'id' => '23844791601770272',
+          ],
+          2 => 
+          [
+            'name' => 'Трафик_окрашивание_13.05.2020',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LINK_CLICKS',
+            'lifetime_budget' => '300000',
+            'status' => 'PAUSED',
+            'id' => '23844672568650272',
+          ],
+          3 => 
+          [
+            'name' => 'Поиск мастеров',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LINK_CLICKS',
+            'daily_budget' => '50000',
+            'status' => 'ACTIVE',
+            'id' => '23844170671780272',
+          ],
+          4 => 
+          [
+            'name' => 'Трафик_бесплатный_маникюр_27.12.2019',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LINK_CLICKS',
+            'lifetime_budget' => '1000000',
+            'status' => 'PAUSED',
+            'id' => '23844052675940272',
+          ],
+          5 => 
+          [
+            'name' => 'Трафик_бесплатные_брови_24.12.2019',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LINK_CLICKS',
+            'lifetime_budget' => '1810000',
+            'status' => 'ACTIVE',
+            'id' => '23844051064150272',
+          ],
+          6 => 
+          [
+            'name' => 'Узнаваемость возле салона',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'BRAND_AWARENESS',
+            'daily_budget' => '25000',
+            'status' => 'PAUSED',
+            'id' => '23843918353250272',
+          ],
+          7 => 
+          [
+            'name' => 'Стрижка -50% Липецк',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '25000',
+            'status' => 'PAUSED',
+            'id' => '23843915645800272',
+          ],
+          8 => 
+          [
+            'name' => 'ГОЛОВА БРОВИ ЛИПЕЦК LAL',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '100000',
+            'status' => 'PAUSED',
+            'id' => '23843827530970272',
+          ],
+          9 => 
+          [
+            'name' => 'СТРИЖКА 15%',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '50000',
+            'status' => 'PAUSED',
+            'id' => '23843789491420272',
+          ],
+          10 => 
+          [
+            'name' => 'МАНИК 15%',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '50000',
+            'status' => 'PAUSED',
+            'id' => '23843789477460272',
+          ],
+          11 => 
+          [
+            'name' => 'ГОЛОВА БРОВИ ЛИПЕЦК — Копия',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '100000',
+            'status' => 'PAUSED',
+            'id' => '23843788704490272',
+          ],
+          12 => 
+          [
+            'name' => 'ГОЛОВА БРОВИ ЛИПЕЦК ДИНАМИКА',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '25000',
+            'status' => 'PAUSED',
+            'id' => '23843784910850272',
+          ],
+          13 => 
+          [
+            'name' => 'ГОЛОВА БРОВИ ЛИПЕЦК — Копия',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '100000',
+            'status' => 'PAUSED',
+            'id' => '23843777928920272',
+          ],
+          14 => 
+          [
+            'name' => 'ГОЛОВА БРОВИ ЛИПЕЦК — Копия',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '25000',
+            'status' => 'PAUSED',
+            'id' => '23843776073180272',
+          ],
+          15 => 
+          [
+            'name' => 'ГОЛОВА БРОВИ ЛИПЕЦК  FB',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '100000',
+            'status' => 'PAUSED',
+            'id' => '23843768059420272',
+          ],
+          16 => 
+          [
+            'name' => 'ГОЛОВА БРОВИ ЛИПЕЦК — Копия',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '50000',
+            'status' => 'PAUSED',
+            'id' => '23843763742040272',
+          ],
+          17 => 
+          [
+            'name' => 'ГОЛОВА БРОВИ ЛИПЕЦК САЛОНЫ',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '50000',
+            'status' => 'PAUSED',
+            'id' => '23843761043680272',
+          ],
+          18 => 
+          [
+            'name' => 'Брови Липецк',
+            'bid_strategy' => 'LOWEST_COST_WITHOUT_CAP',
+            'buying_type' => 'AUCTION',
+            'objective' => 'LEAD_GENERATION',
+            'daily_budget' => '50000',
+            'status' => 'PAUSED',
+            'id' => '23843704862820272',
+          ],
+        ],
+        'paging' => 
+        [
+          'cursors' => 
+          [
+            'before' => 'QVFIUlhPdXhiWURVRUw1NThPaU95LXBKOFo3NVZA6N2JrU1pYREx0SUtfYllpbTBuUnAyR0xMSWtId3JvbWhETXpGbTZAOZA3lReGNwMzlzOU53MFJLRWhDaTV3',
+            'after' => 'QVFIUmJtVnQxU080OTNnSVRCVkNISmhDQnR0MF85VFRxNU5paVlJaVNBeGRTN3dSTXJfdnFsVG9iXzV3Y1ZAkMkZAUMUNHUHNvaDZAjZA0RlWm85X0lYaDEzUlJn',
+          ],
+        ],
+      ],
+      '451ea8c14f559febbbdee2802b9040d4' => 
+      [
+        'data' => 
+        [
+          0 => 
+          [
+            'spend' => '199.05',
+            'impressions' => '3510',
+            'cpm' => '56.709402',
+            'cpc' => '14.217857',
+            'reach' => '3231',
+            'clicks' => '14',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '8',
+              ],
+              1 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '8',
+              ],
+              2 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '8',
+              ],
+            ],
+            'date_start' => '2020-06-03',
+            'date_stop' => '2020-06-03',
+          ],
+          1 => 
+          [
+            'spend' => '11.09',
+            'impressions' => '116',
+            'cpm' => '95.603448',
+            'cpc' => '5.545',
+            'reach' => '116',
+            'clicks' => '2',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '2',
+              ],
+              1 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '2',
+              ],
+              2 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '2',
+              ],
+            ],
+            'date_start' => '2020-06-04',
+            'date_stop' => '2020-06-04',
+          ],
+        ],
+        'paging' => 
+        [
+          'cursors' => 
+          [
+            'before' => 'MAZDZD',
+            'after' => 'MQZDZD',
+          ],
+        ],
+      ],
+      'c0840ad43d221431d5ed0837dfd74065' => 
+      [
+        'data' => 
+        [
+          0 => 
+          [
+            'name' => 'интересы_сториз',
+            'billing_event' => 'IMPRESSIONS',
+            'optimization_goal' => 'LINK_CLICKS',
+            'id' => '23844791789030272',
+          ],
+          1 => 
+          [
+            'name' => 'трафик сториз',
+            'billing_event' => 'IMPRESSIONS',
+            'optimization_goal' => 'LINK_CLICKS',
+            'id' => '23844791762750272',
+          ],
+        ],
+        'paging' => 
+        [
+          'cursors' => 
+          [
+            'before' => 'QVFIUmdwbXNpaTg3am9lU0hXWDcxRFFoelJfSFcxaE1zTkdTVjRhUjZAQWEJ1WmRnVFBBS3dtSTFYWkVwUkYyd1pZAd1dzV0RBQUw5eUJEd1Vhc3d1SDl1bWlB',
+            'after' => 'QVFIUmpMR0hzOGFaWURaNkNuSUhrU3FvZAXIxd19Ga05pMnBIWGM0WjQ4YlZAtNlM3ck1wQXhEOGFPLTBOenRwRG16VXpoR2M2Rm1RbmtpZATNIdk9DVm5NSld3',
+          ],
+        ],
+      ],
+      '74081eb9120a6fd7dc3a6f1756330c04' => 
+      [
+        'data' => 
+        [
+        ],
+      ],
+      '5ef979c044e804a69b657526a417971c' => 
+      [
+        'data' => 
+        [
+          0 => 
+          [
+            'name' => 'look_i_like',
+            'billing_event' => 'IMPRESSIONS',
+            'optimization_goal' => 'POST_ENGAGEMENT',
+            'id' => '23844791601810272',
+          ],
+        ],
+        'paging' => 
+        [
+          'cursors' => 
+          [
+            'before' => 'QVFIUkxyZAmN3SUluSDB0ek95LWQ4UFNFUkNHdVVhNnFLd0VtQ3NCQUVZAR1NqMGtSUEwtdEdEWHc0ZAzVVMFczX05CMkxOV1daSzMzQUo4UUhSWnJZAR2tuTk1n',
+            'after' => 'QVFIUkxyZAmN3SUluSDB0ek95LWQ4UFNFUkNHdVVhNnFLd0VtQ3NCQUVZAR1NqMGtSUEwtdEdEWHc0ZAzVVMFczX05CMkxOV1daSzMzQUo4UUhSWnJZAR2tuTk1n',
+          ],
+        ],
+      ],
+      'b973cd286ac20a801df4461e3956a8a3' => 
+      [
+        'data' => 
+        [
+          0 => 
+          [
+            'spend' => '295.43',
+            'impressions' => '3982',
+            'cpm' => '74.191361',
+            'cpc' => '7.774474',
+            'reach' => '3753',
+            'clicks' => '38',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '23',
+              ],
+              1 => 
+              [
+                'action_type' => 'post',
+                'value' => '6',
+              ],
+              2 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '58',
+              ],
+              3 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '87',
+              ],
+              4 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '87',
+              ],
+            ],
+            'date_start' => '2020-01-31',
+            'date_stop' => '2020-01-31',
+          ],
+          1 => 
+          [
+            'spend' => '314.8',
+            'impressions' => '4628',
+            'cpm' => '68.020743',
+            'cpc' => '14.309091',
+            'reach' => '4533',
+            'clicks' => '22',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '14',
+              ],
+              1 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '71',
+              ],
+              2 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '85',
+              ],
+              3 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '85',
+              ],
+            ],
+            'date_start' => '2020-02-01',
+            'date_stop' => '2020-02-01',
+          ],
+          2 => 
+          [
+            'spend' => '285.98',
+            'impressions' => '4873',
+            'cpm' => '58.686641',
+            'cpc' => '15.887778',
+            'reach' => '4766',
+            'clicks' => '18',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '9',
+              ],
+              1 => 
+              [
+                'action_type' => 'post',
+                'value' => '1',
+              ],
+              2 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '40',
+              ],
+              3 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '50',
+              ],
+              4 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '50',
+              ],
+            ],
+            'date_start' => '2020-02-02',
+            'date_stop' => '2020-02-02',
+          ],
+          3 => 
+          [
+            'spend' => '288.38',
+            'impressions' => '3879',
+            'cpm' => '74.343903',
+            'cpc' => '32.042222',
+            'reach' => '3796',
+            'clicks' => '9',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '4',
+              ],
+              1 => 
+              [
+                'action_type' => 'post',
+                'value' => '1',
+              ],
+              2 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '60',
+              ],
+              3 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '65',
+              ],
+              4 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '65',
+              ],
+            ],
+            'date_start' => '2020-02-03',
+            'date_stop' => '2020-02-03',
+          ],
+          4 => 
+          [
+            'spend' => '306.17',
+            'impressions' => '3500',
+            'cpm' => '87.477143',
+            'cpc' => '14.579524',
+            'reach' => '3408',
+            'clicks' => '21',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '11',
+              ],
+              1 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '37',
+              ],
+              2 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '48',
+              ],
+              3 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '48',
+              ],
+            ],
+            'date_start' => '2020-02-04',
+            'date_stop' => '2020-02-04',
+          ],
+          5 => 
+          [
+            'spend' => '310.18',
+            'impressions' => '3072',
+            'cpm' => '100.970052',
+            'cpc' => '22.155714',
+            'reach' => '3002',
+            'clicks' => '14',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '8',
+              ],
+              1 => 
+              [
+                'action_type' => 'post',
+                'value' => '1',
+              ],
+              2 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '23',
+              ],
+              3 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '32',
+              ],
+              4 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '32',
+              ],
+            ],
+            'date_start' => '2020-02-05',
+            'date_stop' => '2020-02-05',
+          ],
+          6 => 
+          [
+            'spend' => '293.93',
+            'impressions' => '3409',
+            'cpm' => '86.221766',
+            'cpc' => '17.29',
+            'reach' => '3313',
+            'clicks' => '17',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '10',
+              ],
+              1 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '28',
+              ],
+              2 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '38',
+              ],
+              3 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '38',
+              ],
+            ],
+            'date_start' => '2020-02-06',
+            'date_stop' => '2020-02-06',
+          ],
+          7 => 
+          [
+            'spend' => '301.03',
+            'impressions' => '3538',
+            'cpm' => '85.084794',
+            'cpc' => '20.068667',
+            'reach' => '3469',
+            'clicks' => '15',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '12',
+              ],
+              1 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '24',
+              ],
+              2 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '36',
+              ],
+              3 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '36',
+              ],
+            ],
+            'date_start' => '2020-02-07',
+            'date_stop' => '2020-02-07',
+          ],
+          8 => 
+          [
+            'spend' => '225.91',
+            'impressions' => '3073',
+            'cpm' => '73.514481',
+            'cpc' => '8.367037',
+            'reach' => '2928',
+            'clicks' => '27',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '13',
+              ],
+              1 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '104',
+              ],
+              2 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '117',
+              ],
+              3 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '117',
+              ],
+            ],
+            'date_start' => '2020-02-24',
+            'date_stop' => '2020-02-24',
+          ],
+          9 => 
+          [
+            'spend' => '466.11',
+            'impressions' => '4886',
+            'cpm' => '95.397053',
+            'cpc' => '9.512449',
+            'reach' => '4408',
+            'clicks' => '49',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '29',
+              ],
+              1 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '218',
+              ],
+              2 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '247',
+              ],
+              3 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '247',
+              ],
+            ],
+            'date_start' => '2020-02-25',
+            'date_stop' => '2020-02-25',
+          ],
+          10 => 
+          [
+            'spend' => '0.61',
+            'impressions' => '2',
+            'cpm' => '305',
+            'reach' => '2',
+            'clicks' => '0',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '1',
+              ],
+              1 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '1',
+              ],
+              2 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '1',
+              ],
+            ],
+            'date_start' => '2020-02-26',
+            'date_stop' => '2020-02-26',
+          ],
+          11 => 
+          [
+            'spend' => '566.26',
+            'impressions' => '5227',
+            'cpm' => '108.333652',
+            'cpc' => '16.178857',
+            'reach' => '5032',
+            'clicks' => '35',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '24',
+              ],
+              1 => 
+              [
+                'action_type' => 'post',
+                'value' => '3',
+              ],
+              2 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '195',
+              ],
+              3 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '222',
+              ],
+              4 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '222',
+              ],
+            ],
+            'date_start' => '2020-02-28',
+            'date_stop' => '2020-02-28',
+          ],
+          12 => 
+          [
+            'spend' => '577.19',
+            'impressions' => '5142',
+            'cpm' => '112.250097',
+            'cpc' => '11.5438',
+            'reach' => '4853',
+            'clicks' => '50',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '27',
+              ],
+              1 => 
+              [
+                'action_type' => 'post',
+                'value' => '2',
+              ],
+              2 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '229',
+              ],
+              3 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '258',
+              ],
+              4 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '258',
+              ],
+            ],
+            'date_start' => '2020-02-29',
+            'date_stop' => '2020-02-29',
+          ],
+          13 => 
+          [
+            'spend' => '500',
+            'impressions' => '5276',
+            'cpm' => '94.768764',
+            'cpc' => '15.151515',
+            'reach' => '5036',
+            'clicks' => '33',
+            'actions' => 
+            [
+              0 => 
+              [
+                'action_type' => 'link_click',
+                'value' => '22',
+              ],
+              1 => 
+              [
+                'action_type' => 'post',
+                'value' => '3',
+              ],
+              2 => 
+              [
+                'action_type' => 'video_view',
+                'value' => '185',
+              ],
+              3 => 
+              [
+                'action_type' => 'post_engagement',
+                'value' => '210',
+              ],
+              4 => 
+              [
+                'action_type' => 'page_engagement',
+                'value' => '210',
+              ],
+            ],
+            'date_start' => '2020-03-01',
+            'date_stop' => '2020-03-01',
+          ],
+        ],
+        'paging' => 
+        [
+          'cursors' => 
+          [
+            'before' => 'MAZDZD',
+            'after' => 'MTMZD',
+          ],
+        ],
+      ],
+      '691a036af9f854888501b90b405113c7' => 
+      [
+        'data' => 
+        [
+          0 => 
+          [
+            'name' => 'поиск администратора',
+            'billing_event' => 'IMPRESSIONS',
+            'optimization_goal' => 'LINK_CLICKS',
+            'id' => '23844259119290272',
+          ],
+          1 => 
+          [
+            'name' => 'поиск маникюриста_педикюр сториз',
+            'billing_event' => 'IMPRESSIONS',
+            'optimization_goal' => 'LINK_CLICKS',
+            'id' => '23844259114930272',
+          ],
+          2 => 
+          [
+            'name' => 'поиск парикмахера сториз',
+            'billing_event' => 'IMPRESSIONS',
+            'optimization_goal' => 'LINK_CLICKS',
+            'id' => '23844259114410272',
+          ],
+          3 => 
+          [
+            'name' => 'поиск визажиста сториз',
+            'billing_event' => 'IMPRESSIONS',
+            'optimization_goal' => 'LINK_CLICKS',
+            'id' => '23844170671800272',
+          ],
+        ],
+        'paging' => 
+        [
+          'cursors' => 
+          [
+            'before' => 'QVFIUmZAQR2o3bW5qYXUzUnN2ellYRndBODd2emZAoRzFkQ0pNdTJHTkJKMVNCZAFlGTmpRSERBWGNuSGgzaXZA3QzItVkN2YVl0MUQ1bHVwazRNS3NqT0RVQ1B3',
+            'after' => 'QVFIUkVUQmV2bFVPMnY5WHBZAN3E2NHZAOQkRvODZArU0drb2ZAYM0xHcG9TeEc5dmJiLVZAUSXhKN3d5Y2x6Y19ZAM2ZAmdUF2c3A1aWRFLXI5NjdYLXBidzhIS3ZAn',
+          ],
+        ],
+      ],
+    ],
+  ],
+];
