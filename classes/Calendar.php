@@ -11,8 +11,20 @@ class Calendar
 
     public static function get_month_names()
     {
-        return ORM::forTable('month_names')
-            ->findArray();
+        return [
+            1 => 'Январь',
+            2 => 'Февраль',
+            3 => 'Март',
+            4 => 'Апрель',
+            5 => 'Май',
+            6 => 'Июнь',
+            7 => 'Июль',
+            8 => 'Август',
+            9 => 'Октябрь',
+            10 => 'Сентябрь',
+            11 => 'Ноябрь',
+            12 => 'Декабрь'
+        ];
     }
 
     public static function get_current_day()
@@ -20,12 +32,12 @@ class Calendar
         return strftime("%d", time());
     }
 
-     public static function get_current_hour()
+    public static function get_current_hour()
     {
         return date('H');
     }
 
-     public static function get_current_min()
+    public static function get_current_min()
     {
         return date('i');
     }
@@ -33,6 +45,11 @@ class Calendar
     public static function get_current_month()
     {
         return strftime("%m", time());
+    }
+
+    public static function get_current_month_name()
+    {
+        return self::get_month_names()[strftime("%m", time())*1];
     }
 
     public static function get_current_year()
@@ -100,18 +117,23 @@ class Calendar
         }
 
         //получить выбраный месяц
-        for ($i=1;$i<=$quantity_days_in_selected_month;$i++){
-            $page[] = ['day' =>  $i, 'month' => $selected_month, 'year' => $selected_year];
+        for ($i = 1; $i <= $quantity_days_in_selected_month; $i++) {
+            $page[] = ['day' => $i, 'month' => $selected_month, 'year' => $selected_year];
         }
 
 
         //получить часть следующего месяца на странице
         if ($name_last_day_in_month <= 7) {
-            for ($i = 1; $name_last_day_in_month+$i <= 7; $i++) {
-                $page[] = ['day' =>  $i, 'month' => $next_month, 'year' => $temp_year_n_month];
+            for ($i = 1; $name_last_day_in_month + $i <= 7; $i++) {
+                $page[] = ['day' => $i, 'month' => $next_month, 'year' => $temp_year_n_month];
             }
         }
         return $page;
+    }
+
+    public static function get_month_name($current_month)
+    {
+        return self::get_month_names()[$current_month*1];
     }
 
 }

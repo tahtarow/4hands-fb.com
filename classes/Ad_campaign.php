@@ -1,11 +1,11 @@
 <?php
 
-class Campaign
+class Ad_campaign
 {
     public
         $id,
         $data,
-        $ads,
+        $groups,
         $info;
 
     function __construct($id)
@@ -38,7 +38,9 @@ class Campaign
         $this->data = $this->request($request);
     }
 
-    function load_ads()
+
+
+    function load_groups()
     {
         $feilds = [
             'name',
@@ -46,6 +48,8 @@ class Campaign
             'daily_budget',
             'optimization_goal',
             'promoted_object',
+            'status',
+            'targeting',
         ];
 
         $request = '/adsets?fields=';
@@ -61,7 +65,8 @@ class Campaign
         $res = $this->request($request);
         if (!empty($res['data'])) {
             foreach ($res['data'] as $re) {
-                $this->ads[$re['id']] = $re;
+                $this->groups[$re['id']] = new Ad_group($re['id']);
+                $this->groups[$re['id']]->info = $re;
             }
         }
     }
@@ -70,6 +75,8 @@ class Campaign
     {
         return Request::get($this->id . $param);
     }
+
+
 }
 
 

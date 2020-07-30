@@ -5,6 +5,7 @@ class Ad_account
     public
         $id,
         $name,
+        $info,
         $campaings,
         $data;
 
@@ -47,7 +48,7 @@ class Ad_account
 
         $res = $this->request($request)['data'];
         foreach ($res as $r) {
-            $this->campaings[$r['id']] = new Campaign($r['id']);
+            $this->campaings[$r['id']] = new Ad_campaign($r['id']);
             if (isset($r['daily_budget'])){
                 $r['daily_budget'] = substr($r['daily_budget'],0,-2);
             }
